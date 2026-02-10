@@ -47,6 +47,7 @@ This is where I build things. I learn best by shipping — whether it's a tool t
 | [K8-Learning-Simulator](https://github.com/MallardxGreen/K8-Learning-Simulator) | Interactive Kubernetes learning environment — simulated cluster, 50+ kubectl commands, structured lessons, hands-on challenges | React, TypeScript, Tailwind |
 | [BudgetCaster](https://github.com/MallardxGreen/BudgetCaster) | Personal finance tracker with calendar view, dashboards, recurring transactions, and data export — built entirely through conversational AI | HTML, CSS, JS, Chart.js |
 | [KiroSpace](https://github.com/MallardxGreen/KiroSpace) | 3D platform jumper with procedural generation and dynamic music — concept to playable prototype in ~3 hours | Godot, GDScript, Rust |
+| [11labs-to-AWS](https://github.com/MallardxGreen/11labs-to-AWS) | Event-driven voice pipeline — drop a text file in S3, get back AI-generated audio in your cloned voice with 75+ language translation support | Python, Lambda, S3, Translate, ElevenLabs |
 
 ---
 
