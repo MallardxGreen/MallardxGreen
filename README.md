@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sochi 👋</h1>
 
 <p align="center">
-  <strong>AWS Solutions Architect · Cloud Security Enthusiast · Builder</strong>
+  <strong>AWS Solutions Architect · Cloud Security Enthusiast · Vibe-Builder</strong>
 </p>
 
 <p align="center">
